@@ -8,3 +8,4 @@ A aplicação deve ser utilizando **Go** e não poderia ter um tamanho maior que
 Para executar a imagem: `docker run lucastengan/fullcycle`
 
 Obs: testando assinatura de commits com GPG
+Obs: segundo commit assinado
