@@ -5,4 +5,6 @@ A aplicação deve ser utilizando **Go** e não poderia ter um tamanho maior que
 
 [Imagem publicada no docker hub](https://hub.docker.com/repository/docker/lucastengan/fullcycle/)
 
-Para executar a imagem: `docker run lucastengan/fullcycle` 
+Para executar a imagem: `docker run lucastengan/fullcycle`
+
+Obs: testando assinatura de commits com GPG
